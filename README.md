@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/79d725d0-3e64-452d-95f7-2337abf320af)## To remove branch locally
+## To remove branch locally
 
 ```bash
 git branch -d dev 
