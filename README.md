@@ -36,6 +36,10 @@ git push origin :(esm el tag)
 ```
 
 ## To upload image in README.md file
+```bash
+![alt text](http://url/to/img.png)
+
+```
 
 ![Handsome Guy](https://media.licdn.com/dms/image/v2/D4D03AQE3o3kCfZYvJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725952378559?e=1738800000&v=beta&t=GlPSvDn1lo41ZGXTS6ytgi8x2oBwSZzD3y2YEO2UMOE)
 
